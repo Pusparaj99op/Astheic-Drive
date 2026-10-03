@@ -21,7 +21,7 @@ sports car and engine basic shapes, so no extra assets are needed to try it.
 
 ## First run (about 2 minutes)
 1. Pull, then right click `AstheticDrive.uproject` → **Generate Visual Studio project files**.
-2. Open the solution and build **Development Editor | Win64** (or just open the .uproject and let it compile).
+2. Build the editor once: **Development Editor** (or just open the .uproject and let it compile).
    The `ProceduralMeshComponent` plugin is now enabled in the .uproject, so accept if the editor asks to rebuild.
 3. In the editor: **File → New Level → Empty Level**. Save it as `Content/Variant_Endless/Maps/Lvl_Endless`.
    Any map whose name starts with `Lvl_Endless` uses `EndlessGameMode` automatically (see `DefaultEngine.ini`),
@@ -30,6 +30,21 @@ sports car and engine basic shapes, so no extra assets are needed to try it.
 
 Optional: to make it the startup map, set **Project Settings → Maps & Modes → Editor Startup Map / Game Default Map**
 to `Lvl_Endless`. Do this before packaging for Android.
+
+## Android build (primary target)
+The project is set up for **Android first** (Galaxy S24 Ultra). Windows is only used to run the editor and compile.
+- `DefaultEngine.ini` → `AndroidRuntimeSettings`: package `com.astheticdrive.game`, arm64 only, Vulkan only,
+  min SDK 26, target SDK 34, landscape, fullscreen, data packed inside the APK.
+- `Config/Android/AndroidEngine.ini`: mobile-only renderer overrides (forward shading with MSAA, no Lumen,
+  Nanite, ray tracing or virtual shadow maps, 60 fps cap). The editor keeps the desktop settings.
+- **The packaged game boots straight into the endless mode.** `GameDefaultMap` is the engine's empty `Entry` map with
+  `LocalMapOptions=?game=Endless`, so you don't need to make a map for device builds.
+
+Steps:
+1. Install Android Studio. Then in the editor go to **Platforms → Android → Installed SDK / Turnkey** and let it install
+   the SDK/NDK versions UE 5.8 asks for.
+2. Plug in the S24 Ultra with USB debugging enabled.
+3. **Platforms → Android → Quick Launch** (deploys and runs), or **Package Project** for an APK.
 
 ## Controls
 These are the template's own mappings: keyboard (W/S or arrows, A/D, Space for handbrake), gamepad, or the on-screen touch
