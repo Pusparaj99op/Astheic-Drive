@@ -1,0 +1,44 @@
+{
+    "version": "2.1.0",
+    "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+    "runs": [
+        {
+            "results": [
+                {
+                    "ruleId": "C4996",
+                    "message": {
+                        "text": "'FNetworkPhysicsPayload::DoInterpolateData': Temporary virtual function for backwards compatibility with FNetworkPhysicsData. Use the InterpolateData function that passes the LerpAlpha instead - Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile."
+                    },
+                    "analysisTarget": {
+                        "uri": "file:///W:/Astheic Drive/AstheticDrive/Source/AstheticDrive/AstheticDriveSportsCar.cpp"
+                    },
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "file:///W:/GameDev/UE_5.8/Engine/Source/Runtime/Engine/Public/Physics/NetworkPhysicsComponent.h"
+                                },
+                                "region": {
+                                    "startLine": 2073,
+                                    "startColumn": 7,
+                                    "snippet": {
+                                        "text": "\tvoid DoInterpolateData(const FNetworkPhysicsPayload& MinData, const FNetworkPhysicsPayload& MaxData) override { this->InterpolateData(static_cast<const FNetworkPhysicsData&>(MinData), static_cast<const FNetworkPhysicsData&>(MaxData)); }"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "tool": {
+                "driver": {
+                    "name": "MSVC",
+                    "shortDescription": {
+                        "text": "Microsoft Visual C++ Compiler Warnings/Errors"
+                    },
+                    "informationUri": "https://docs.microsoft.com/cpp/error-messages/compiler-errors-1/c-cpp-build-errors"
+                }
+            }
+        }
+    ]
+}

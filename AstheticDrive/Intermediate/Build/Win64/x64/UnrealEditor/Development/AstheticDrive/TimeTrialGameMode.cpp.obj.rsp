@@ -1,0 +1,14 @@
+"W:/Astheic Drive/AstheticDrive/Source/AstheticDrive/Variant_TimeTrial/TimeTrialGameMode.cpp"
+@"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/AstheticDrive.Shared.rsp"
+/FI"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/AstheticDriveEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/Definitions.AstheticDrive.h"
+/Yu"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/AstheticDriveEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/AstheticDriveEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/TimeTrialGameMode.cpp.obj"
+/experimental:log "W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/TimeTrialGameMode.cpp.sarif"
+/sourceDependencies "W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/TimeTrialGameMode.cpp.dep.json"
+/nologo
+/TP
+/GR-
+/std:c++20
+/wd5054

@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "w:\\astheic drive\\astheticdrive\\source\\astheticdrive\\variant_timetrial\\timetrialtrackgate.cpp",
+        "ProvidedModule": "",
+        "PCH": "w:\\astheic drive\\astheticdrive\\intermediate\\build\\win64\\x64\\astheticdriveeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "w:\\astheic drive\\astheticdrive\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\astheticdrive\\definitions.astheticdrive.h",
+            "w:\\astheic drive\\astheticdrive\\source\\astheticdrive\\variant_timetrial\\timetrialtrackgate.h",
+            "w:\\astheic drive\\astheticdrive\\intermediate\\build\\win64\\unrealeditor\\inc\\astheticdrive\\uht\\timetrialtrackgate.generated.h",
+            "w:\\gamedev\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "w:\\gamedev\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "w:\\gamedev\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "w:\\gamedev\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "w:\\astheic drive\\astheticdrive\\source\\astheticdrive\\variant_timetrial\\timetrialplayercontroller.h",
+            "w:\\astheic drive\\astheticdrive\\intermediate\\build\\win64\\unrealeditor\\inc\\astheticdrive\\uht\\timetrialplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

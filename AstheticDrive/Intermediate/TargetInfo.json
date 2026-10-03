@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AstheticDrive",
+			"Path": "..\\Source\\AstheticDrive.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AstheticDriveEditor",
+			"Path": "..\\Source\\AstheticDriveEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

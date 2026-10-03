@@ -1,0 +1,31 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/experimental:deterministic
+/DEF
+/NAME:"UnrealEditor-AstheticDrive.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/AstheticDriveEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/Module.AstheticDrive.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/AstheticDrive.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/AstheticDriveGameMode.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/AstheticDrivePawn.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/AstheticDrivePlayerController.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/AstheticDriveSportsCar.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/AstheticDriveUI.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/AstheticDriveWheelFront.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/AstheticDriveWheelRear.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/AstheticDriveOffroadCar.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/AstheticDriveOffroadWheelFront.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/AstheticDriveOffroadWheelRear.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/AstheticDriveSportsWheelFront.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/AstheticDriveSportsWheelRear.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/OffroadGameMode.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/TimeTrialGameMode.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/TimeTrialPlayerController.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/TimeTrialTrackGate.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/TimeTrialStartUI.cpp.obj"
+"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/TimeTrialUI.cpp.obj"
+/OUT:"W:/Astheic Drive/AstheticDrive/Intermediate/Build/Win64/x64/UnrealEditor/Development/AstheticDrive/UnrealEditor-AstheticDrive.lib"

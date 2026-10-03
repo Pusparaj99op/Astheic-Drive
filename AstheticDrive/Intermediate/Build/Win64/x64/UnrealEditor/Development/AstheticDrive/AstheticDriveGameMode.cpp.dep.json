@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "w:\\astheic drive\\astheticdrive\\source\\astheticdrive\\astheticdrivegamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "w:\\astheic drive\\astheticdrive\\intermediate\\build\\win64\\x64\\astheticdriveeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "w:\\astheic drive\\astheticdrive\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\astheticdrive\\definitions.astheticdrive.h",
+            "w:\\astheic drive\\astheticdrive\\source\\astheticdrive\\astheticdrivegamemode.h",
+            "w:\\gamedev\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "w:\\gamedev\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "w:\\gamedev\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "w:\\gamedev\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "w:\\astheic drive\\astheticdrive\\intermediate\\build\\win64\\unrealeditor\\inc\\astheticdrive\\uht\\astheticdrivegamemode.generated.h",
+            "w:\\astheic drive\\astheticdrive\\source\\astheticdrive\\astheticdriveplayercontroller.h",
+            "w:\\astheic drive\\astheticdrive\\intermediate\\build\\win64\\unrealeditor\\inc\\astheticdrive\\uht\\astheticdriveplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,46 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AstheticDrive.cpp.obj": [
+			"AstheticDrive.init.gen.cpp.obj",
+			"AstheticDriveGameMode.gen.cpp.obj",
+			"AstheticDriveOffroadCar.gen.cpp.obj",
+			"AstheticDriveOffroadWheelFront.gen.cpp.obj",
+			"AstheticDriveOffroadWheelRear.gen.cpp.obj",
+			"AstheticDrivePawn.gen.cpp.obj",
+			"AstheticDrivePlayerController.gen.cpp.obj",
+			"AstheticDriveSportsCar.gen.cpp.obj",
+			"AstheticDriveSportsWheelFront.gen.cpp.obj",
+			"AstheticDriveSportsWheelRear.gen.cpp.obj",
+			"AstheticDriveUI.gen.cpp.obj",
+			"AstheticDriveWheelFront.gen.cpp.obj",
+			"AstheticDriveWheelRear.gen.cpp.obj",
+			"OffroadGameMode.gen.cpp.obj",
+			"TimeTrialGameMode.gen.cpp.obj",
+			"TimeTrialPlayerController.gen.cpp.obj",
+			"TimeTrialStartUI.gen.cpp.obj",
+			"TimeTrialTrackGate.gen.cpp.obj",
+			"TimeTrialUI.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"AstheticDrive.cpp.obj",
+			"AstheticDriveGameMode.cpp.obj",
+			"AstheticDrivePawn.cpp.obj",
+			"AstheticDrivePlayerController.cpp.obj",
+			"AstheticDriveSportsCar.cpp.obj",
+			"AstheticDriveUI.cpp.obj",
+			"AstheticDriveWheelFront.cpp.obj",
+			"AstheticDriveWheelRear.cpp.obj",
+			"AstheticDriveOffroadCar.cpp.obj",
+			"AstheticDriveOffroadWheelFront.cpp.obj",
+			"AstheticDriveOffroadWheelRear.cpp.obj",
+			"AstheticDriveSportsWheelFront.cpp.obj",
+			"AstheticDriveSportsWheelRear.cpp.obj",
+			"OffroadGameMode.cpp.obj",
+			"TimeTrialGameMode.cpp.obj",
+			"TimeTrialPlayerController.cpp.obj",
+			"TimeTrialTrackGate.cpp.obj",
+			"TimeTrialStartUI.cpp.obj",
+			"TimeTrialUI.cpp.obj"
+		]
+	}
+}

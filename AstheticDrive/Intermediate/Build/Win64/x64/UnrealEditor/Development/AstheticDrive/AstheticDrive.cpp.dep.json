@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "w:\\astheic drive\\astheticdrive\\source\\astheticdrive\\astheticdrive.cpp",
+        "ProvidedModule": "",
+        "PCH": "w:\\astheic drive\\astheticdrive\\intermediate\\build\\win64\\x64\\astheticdriveeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "w:\\astheic drive\\astheticdrive\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\astheticdrive\\definitions.astheticdrive.h",
+            "w:\\astheic drive\\astheticdrive\\source\\astheticdrive\\astheticdrive.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

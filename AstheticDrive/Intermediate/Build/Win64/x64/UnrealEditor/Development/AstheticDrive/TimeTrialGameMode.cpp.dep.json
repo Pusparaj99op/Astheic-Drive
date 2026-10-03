@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "w:\\astheic drive\\astheticdrive\\source\\astheticdrive\\variant_timetrial\\timetrialgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "w:\\astheic drive\\astheticdrive\\intermediate\\build\\win64\\x64\\astheticdriveeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "w:\\astheic drive\\astheticdrive\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\astheticdrive\\definitions.astheticdrive.h",
+            "w:\\astheic drive\\astheticdrive\\source\\astheticdrive\\variant_timetrial\\timetrialgamemode.h",
+            "w:\\gamedev\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "w:\\gamedev\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "w:\\gamedev\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "w:\\gamedev\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "w:\\astheic drive\\astheticdrive\\intermediate\\build\\win64\\unrealeditor\\inc\\astheticdrive\\uht\\timetrialgamemode.generated.h",
+            "w:\\gamedev\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "w:\\gamedev\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "w:\\gamedev\\ue_5.8\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "w:\\gamedev\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\propertyaccessutil.generated.h",
+            "w:\\gamedev\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "w:\\gamedev\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "w:\\gamedev\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "w:\\gamedev\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "w:\\gamedev\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "w:\\gamedev\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "w:\\astheic drive\\astheticdrive\\source\\astheticdrive\\variant_timetrial\\timetrialtrackgate.h",
+            "w:\\astheic drive\\astheticdrive\\intermediate\\build\\win64\\unrealeditor\\inc\\astheticdrive\\uht\\timetrialtrackgate.generated.h",
+            "w:\\gamedev\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstart.h",
+            "w:\\gamedev\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\engine\\navigationobjectbase.h",
+            "w:\\gamedev\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navigationobjectbase.generated.h",
+            "w:\\gamedev\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerstart.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
