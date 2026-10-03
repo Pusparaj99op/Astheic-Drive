@@ -17,7 +17,8 @@ public class AstheticDrive : ModuleRules
 			"ChaosVehicles",
 			"PhysicsCore",
 			"UMG",
-			"Slate"
+			"Slate",
+			"ProceduralMeshComponent"
 		});
 
 		PublicIncludePaths.AddRange(new string[] {
@@ -26,7 +27,10 @@ public class AstheticDrive : ModuleRules
 			"AstheticDrive/OffroadCar",
 			"AstheticDrive/Variant_OffRoad",
 			"AstheticDrive/Variant_TimeTrial",
-			"AstheticDrive/Variant_TimeTrial/UI"
+			"AstheticDrive/Variant_TimeTrial/UI",
+			"AstheticDrive/Variant_Endless",
+			"AstheticDrive/Variant_Endless/World",
+			"AstheticDrive/Variant_Endless/Gameplay"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] { });

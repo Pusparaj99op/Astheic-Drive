@@ -58,4 +58,9 @@ Separate wheels/body/doors/glass/lights, clean pivots, LOD0-3, roughly <=150k tr
 Each milestone: package to S24 Ultra over USB, measure fps/frametime/thermals/memory over a 10-minute run; automated C++ tests for generator determinism and chunk pooling (80%+ coverage on non-render logic).
 
 ## Status
-Spec written; awaiting user review before invoking writing-plans for the implementation plan.
+- M0: UE 5.8 installed, C++ vehicle template project in place (Chaos vehicles for now; the Fab plugin is still open).
+- M2 (done, first pass): seeded road generator (straights, curves, hills, banking, switchback U-turns, bridges),
+  pooled chunk streamer, ocean plane, automation tests. See `docs/ENDLESS_MODE.md`.
+- M3 (partial): dusk lighting rig, speed FOV and motion blur. Placeholder basic-shape props until Fab art is bought.
+- M5 (partial): traffic, near-miss combos, coins, score multiplier, crash and restart loop, save game, canvas HUD.
+- Next: M4 audio (MetaSounds), real art through `EndlessBiomeData`, garage, M6 presets and device profiling.
