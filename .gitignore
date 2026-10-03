@@ -1,0 +1,71 @@
+# Unreal Engine 5 project (AstheticDrive/)
+# Only source files and content are tracked: Source/, Config/, Content/, the .uproject.
+# Everything below is generated and is rebuilt by the engine / Visual Studio.
+
+# Generated project folders
+AstheticDrive/Binaries/
+AstheticDrive/Build/
+AstheticDrive/DerivedDataCache/
+AstheticDrive/Intermediate/
+AstheticDrive/Saved/
+
+# Plugin build output
+AstheticDrive/Plugins/**/Binaries/
+AstheticDrive/Plugins/**/Intermediate/
+
+# Visual Studio / Rider generated files
+AstheticDrive/.vs/
+AstheticDrive/*.sln
+AstheticDrive/*.slnx
+AstheticDrive/*.xcodeproj
+AstheticDrive/*.xcworkspace
+AstheticDrive/UpgradeLog*.htm
+AstheticDrive/UpgradeLog*.XML
+AstheticDrive/_UpgradeReport_Files/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.ipch
+*.pdb
+*.obj
+*.ilk
+*.exp
+
+# Visual Studio Code
+.vscode/
+
+# Compiled / packaged output
+*.dll
+*.exe
+*.lib
+*.a
+*.so
+*.dylib
+*.apk
+*.ipa
+*.app
+
+# Claude Code per-session state
+.claude/sessions/
+.claude/settings.local.json
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
