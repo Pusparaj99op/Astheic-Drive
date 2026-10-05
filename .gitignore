@@ -56,6 +56,11 @@ AstheticDrive/_UpgradeReport_Files/
 .claude/sessions/
 .claude/settings.local.json
 
+# Files over 100 MiB
+# Git cannot filter by size in .gitignore; enforcement is in .git/hooks/pre-commit.
+# That hook rejects any staged file larger than 100 MiB with a clear error message.
+# To track large binaries intentionally, use Git LFS (git lfs track "*.ext").
+
 # Logs and temp files
 *.log
 *.tmp
